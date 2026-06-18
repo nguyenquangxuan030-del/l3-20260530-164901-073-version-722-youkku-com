@@ -1,0 +1,11 @@
+parsed_movies: 2000
+detail_pages: 2000
+html_pages: 2011
+category_pages: 8
+category_coverage: 2000
+index_card_count: 2024
+stats_ok_all_html: True
+player_ok_all_details: True
+no_image_files_in_output: True
+video_urls_extracted_from_original_js: 150
+durations_extracted_from_original_js: 150

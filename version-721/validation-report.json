@@ -1,0 +1,26 @@
+{
+  "html_file_count": 2016,
+  "baidu_count": 2016,
+  "movie_detail_pages": 2000,
+  "movie_cards_total": 16060,
+  "has_jpg_files": false,
+  "logo_mentions": 68,
+  "category_distribution": {
+    "经典剧集": 167,
+    "悬疑犯罪": 167,
+    "科幻奇幻": 167,
+    "动作冒险": 167,
+    "爱情家庭": 167,
+    "喜剧生活": 167,
+    "历史战争": 167,
+    "动画少儿": 167,
+    "都市职场": 166,
+    "纪录综艺": 166,
+    "海外剧场": 166,
+    "热门电影": 166
+  },
+  "parsed_movie_count": 2000,
+  "detail_page_count_matches": true,
+  "baidu_on_every_html": true,
+  "no_jpg_included": true
+}
